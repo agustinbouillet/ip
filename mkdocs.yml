@@ -1,0 +1,5 @@
+site_name: Mi Documentación del Proyecto
+nav:
+    - Inicio: index.md
+    - Guía:
+        - Introducción: guia/inicio.md
